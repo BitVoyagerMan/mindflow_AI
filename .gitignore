@@ -1,0 +1,6 @@
+*.key
+*.crt
+/node_modules
+/logs
+/bugs
+.env
